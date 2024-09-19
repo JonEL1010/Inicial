@@ -1,4 +1,4 @@
-# El meu document Markdown
+# practica inicial Markdown
 
 Aquest és un paràgraf de text normal. Aquí tens una llista de la compra:
 
