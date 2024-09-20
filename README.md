@@ -25,7 +25,7 @@ Top 10 futbolistas historicos
 8. Zinedine Zidan
 <img src="zidane.jpg" alt="" width="”60”" height="”60”" />
 
-9. Alfredo Di Estefano
+9. Alfredo Di Stefano
 <img src="di stefano.jpg" alt="" width="”60”" height="”60”" />
 
 10. Michel Platini
