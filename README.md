@@ -7,9 +7,10 @@ Top 10 futbolistas historicos
 <img src="maradona.JPG" alt="" width="”60”" height="”60”" />
 
 3. Pele
-<img src="maradona.JPG" alt="" width="”60”" height="”60”" />
+<img src="pele.jpg" alt="" width="”60”" height="”60”" />
 
 4. Johan Cruyff
+<img src="pele.jpg" alt="" width="”60”" height="”60”" />
 
 5. Cristiano Ronaldo
 
