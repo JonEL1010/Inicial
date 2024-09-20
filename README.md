@@ -13,10 +13,11 @@ Top 10 futbolistas historicos
 <img src="cruyff.webp" alt="" width="”60”" height="”60”" />
 
 5. Cristiano Ronaldo
-<img src="cruyff.webp" alt="" width="”60”" height="”60”" />
+<img src="cristiano ronaldo.jpg" alt="" width="”60”" height="”60”" />
 
 
 6. Ronaldo Nazario
+<img src="cristiano ronaldo.jpg" alt="" width="”60”" height="”60”" />
 
 7. Franz Beckenbauer
 
