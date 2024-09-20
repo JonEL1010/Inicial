@@ -1,10 +1,17 @@
-# practica inicial Markdown
+# Rancking futbolistas historicos
+Top 10 futbolistas historicos
+1- Leo Messi
+<img src="”messi.webp”" alt="" width="”100”" height="”100”" />
+2- Diego Maradona
+3- Pele
+4- Johan Cruyff
+5- Cristiano Ronaldo
+6- Ronaldo Nazario
+7- Franz Beckenbauer
+8- Zinedine Zidan
+9- Alfredo Di Estefano
+10- Michel Platini
 
-Aquest és un paràgraf de text normal. Aquí tens una llista de la compra:
-
-- Manzanas
-- Els plàtans
-- Taronges
 
 També podeu afegir [enllaços](https://www.exemple.com) i mostrar imatges:
 
