@@ -20,11 +20,15 @@ Top 10 futbolistas historicos
 <img src="ronaldo nazario.jpg" alt="" width="”60”" height="”60”" />
 
 7. Franz Beckenbauer
+<img src="Franz Beckenbauer.jpg" alt="" width="”60”" height="”60”" />
 
 8. Zinedine Zidan
+<img src="ronaldo nazario.jpg" alt="" width="”60”" height="”60”" />
 
 9. Alfredo Di Estefano
+<img src="ronaldo nazario.jpg" alt="" width="”60”" height="”60”" />
 
 10. Michel Platini
+<img src="ronaldo nazario.jpg" alt="" width="”60”" height="”60”" />
 
 
