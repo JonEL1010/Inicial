@@ -29,6 +29,6 @@ Top 10 futbolistas historicos
 <img src="di stefano.jpg" alt="" width="”60”" height="”60”" />
 
 10. Michel Platini
-<img src="ronaldo nazario.jpg" alt="" width="”60”" height="”60”" />
+<img src="Michel Platini.jpeg" alt="" width="”60”" height="”60”" />
 
 
