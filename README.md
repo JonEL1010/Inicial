@@ -25,10 +25,10 @@ Top 10 futbolistas historicos
 8. Franz Beckenbauer
 <img src="Franz Beckenbauer.jpg" alt="" width="”60”" height="”60”" />
 
-9. Zinedine Zidan
+9. Ronaldinho
 <img src="ronaldinho.jpg" alt="" width="”60”" height="”60”" />
 
-10. Michel Platini
-<img src="Michel Platini.jpeg" alt="" width="”60”" height="”60”" />
+10. Van Basten
+<img src="van basten.avif" alt="" width="”60”" height="”60”" />
 
 
