@@ -6,4 +6,4 @@ Considerado con frecuencia el mejor jugador del mundo y uno de los mejores de to
 
 Tiene, entre otros, los récords por más goles en una temporada,11​ en un mismo club y en un año calendario. Es, además, el máximo goleador histórico del Barcelona y de la selección argentina, de La Liga, la Supercopa de España, la Supercopa de Europa y el jugador no europeo con más goles en la Liga de Campeones de la UEFA. 
 
-<img src="messii.webp" alt="" width="”60”" height="”60”" />
+<img src="messii.jpg" alt="" width="”60”" height="”60”" />
