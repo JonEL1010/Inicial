@@ -1,5 +1,5 @@
 # Ranking futbolistas históricos
-Top 10 futbolistas historicos
+## Top 10 futbolistas historicos
 1. **Leo Messi**
 <img src="messi.webp" alt="" width="”60”" height="”60”" />
 Reconocido por muchos como el mejor futbolista y uno de los mejores deportistas de todos los tiempos, ha ganado 44 títulos colectivos y más de 50 títulos individuales en su carrera. Es el jugador con más "Balones de Oro" y uno de los pocos en ganar una medalla de oro en los juegos olímpicos y un Mundial.
